@@ -1,4 +1,5 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQE_8hWa97vZOg/profile-displaybackgroundimage-shrink_350_1400/0/1681383948943?e=1726099200&v=beta&t=JIaMa6B0EtN4XuSPxeBr--WCPyhe6OccCdZtsl61yLY)
+![MasterHead](./linkedin_cover.jpg)
+
 <h1 align="center">Hi 👋, I'm Shamil Kaleel</h1>
 <h3 align="center">A passionate computer engineering undergraduate from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D03AQEdEZSKh2vpZg/profile-displayphoto-shrink_800_800/0/1665931802434?e=1726099200&v=beta&t=GAPAVeiqMEvUISuecc-Hm_B3wA6dCZn33bur-tBT-YE">

@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Shamil Kaleel</h1>
 <h3 align="center">A passionate computer engineering undergraduate from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+<br>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamilkaleel&label=Profile%20views&color=0e75b6&style=flat" alt="shamilkaleel" /> </p>
 

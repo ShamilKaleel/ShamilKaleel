@@ -33,7 +33,7 @@
 ---
 
 <h3 align="">My Statistics:</h3>
-<p align="center" > 
- <img align="" src="https://github-readme-stats.vercel.app/api?username=ShamilKaleel&theme=dark&show_icons=true&count_private=true" height="200" />
- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShamilKaleel&theme=dark&hide_border=false" height="200" />
- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ShamilKaleel&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> </p>
+<p align="left" > 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShamilKaleel&theme=dark&show_icons=true&count_private=true" height="200"  />
+ <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShamilKaleel&theme=dark&hide_border=false" height="200" />
+ <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ShamilKaleel&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" width =""/> </p>

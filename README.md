@@ -70,18 +70,3 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqubecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShamilKaleel&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamilKaleel&layout=compact&hide_border=true&theme=default" height="165" alt="Top Languages"/>
-</div>
-
----
-
-<p align="center">
-  📧 <b>shamilkaleel81@gmail.com</b> · 💼 <a href="https://www.linkedin.com/in/shamil-kaleel-844b5a253/">LinkedIn</a> · 📍 Sri Lanka
-</p>
